@@ -196,14 +196,20 @@ h1 {
 }
 
 footer {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    box-sizing: inherit;
     background-color: #1f1f1f;
     padding: 1rem;
     text-align: center;
     width: 100%;
-    position: absolute; /* Change from fixed to absolute */
+    position: absolute;
     bottom: 0;
     left: 0;
     color: #ffffff;
+    top: 910px;
+    padding-bottom: 30px;
+    
 }
 
 
