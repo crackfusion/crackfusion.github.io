@@ -1,3 +1,1 @@
-This site is currently unavaliable, this is due to legal reasons...
-
-This site may be back but most likely not, please have some patience and wait untill i figure some stuff out.
+This site is only available some days of the week, due to it being a risk.
