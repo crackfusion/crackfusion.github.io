@@ -1,1 +1,5 @@
-This site is only available some days of the week, due to it being a risk.
+
+# Offline
+
+Deze site is tijdelijk offline want ik ben bezig met een alternatief, De terminal versie.
+
