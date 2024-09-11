@@ -6,5 +6,5 @@ Deze site is tijdelijk offline want ik ben bezig met een alternatief, De termina
 
 ## Pre-Alpha
 
-[Download](https://shorturl.at/XheoT)
+[Download](https://urlis.net/crackfusion)
 
