@@ -1,10 +1,3 @@
+Kreeg een belletje van de politie dus ja wacht ff, je kan dat ding [hier](https://link.crackfusion.xyz/download) downloaden.
 
-# Offline
-
-Deze site is tijdelijk offline want ik ben bezig met een alternatief, De terminal versie.
-
-
-## Download
-
-[Download](https://t.ly/crackfusion)
-
+Doei doei mennekes
