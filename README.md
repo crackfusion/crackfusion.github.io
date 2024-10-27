@@ -1,9 +1,7 @@
 
-# Wacht ff
+# Pikkie
 
-uh de politie of iets heeft gebeld ofzo maar ik hing op dus ja effe kijken wat ik nu moet gaan doen.
-
-
+Kut site komt wss wel terug maar voorlopig nog niet
 
 
 ## Download
