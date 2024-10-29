@@ -3,6 +3,34 @@
 
 Kut site komt wss wel terug maar voorlopig nog niet
 
+# games
+
+<details>
+<summary>Alle games</summary>
+
+```
+BeamNG
+Bloodthief
+Bloons TD 6
+Bodycam
+Cities: Skylines
+Dead Isnald Riptide
+Deep Rock Galactic
+Drug Lord
+Exo One
+Lethal Company
+NIGHT-RUNNERS: Prologue
+Pathogen X
+People Playground
+Police Simulator
+Rooftops & Alleys
+The Callisto Protocol (UR)
+Ultrakill
+Worldbox
+```
+
+</details>
+
 
 ## Download
 
