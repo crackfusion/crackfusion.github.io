@@ -3,11 +3,42 @@
 
 Kut site komt wss wel terug maar voorlopig nog niet
 
-# Games
+# games
 
-[Alle games](https://crackfusion.xyz/games.txt)
+<details>
+<summary>Alle games</summary>
 
-[Alle games met UDC]()
+```
+BeamNG
+Bloodthief
+Bloons TD 6
+Bodycam
+Cities: Skylines
+Dead Isnald Riptide
+Deep Rock Galactic
+Drug Lord
+Exo One
+Lethal Company
+NIGHT-RUNNERS: Prologue
+Pathogen X
+People Playground
+Police Simulator
+Rooftops & Alleys
+The Callisto Protocol (UR)
+Ultrakill
+Worldbox
+```
+
+</details>
+
+<details>
+<summary>Games met UD</summary>
+
+```
+Binnenkort
+```
+
+</details>
 
 
 ## Download
