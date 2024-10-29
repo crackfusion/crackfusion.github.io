@@ -8,7 +8,7 @@ Kut site komt wss wel terug maar voorlopig nog niet
 <details>
 <summary>Alle games</summary>
 
-```
+```text
 BeamNG
 Bloodthief
 Bloons TD 6
@@ -34,7 +34,7 @@ Worldbox
 <details>
 <summary>Games met UD</summary>
 
-```
+```text
 Binnenkort
 ```
 
