@@ -5,7 +5,7 @@ Deze downloads zijn puur gemaakt voor de nieuwste releases die ik doe, dit is mi
 <details>
 <summary>Games</summary>
 
-Katana ZERO - https://cdn3.filehaus.su/files/1730502688_18398/Katana-ZERO-Crackfusion.xyz.zip
+Katana ZERO - [Filehaus](https://cdn3.filehaus.su/files/1730502688_18398/Katana-ZERO-Crackfusion.xyz.zip)
 
 
 </details>
