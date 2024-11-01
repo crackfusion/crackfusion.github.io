@@ -9,7 +9,7 @@ Kut site komt wss wel terug maar voorlopig nog niet
 
 [Alle games met UDC](https://crackfusion.xyz/GamesUD.txt)
 
-[Games met download links (tijdelijk)](https://crackfusion.xyz/Games-downloads.html)
+[Games met download links (tijdelijk)](https://crackfusion.xyz/Games-downloads)
 
 ## Download
 
