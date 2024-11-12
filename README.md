@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="	https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F464899.jpg&f=1&nofb=1&ipt=c7d36281f6cd33492b910472757bd3b3375d067e6fbd83cfd4d7d8e02f5eca2c&ipo=images" width="150px" alt="Project Logo" />
+   <img src="	https://github.com/crackfusion/crackfusion.github.io/blob/main/Logo.png" width="150px" alt="Project Logo" />
     <h1>Crackfusion</h1>
 </div>
 
